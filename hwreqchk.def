@@ -1,0 +1,9 @@
+LIBRARY hwreqchk.dll
+EXPORTS
+CheckHardwareRequirement = EmptyFunction
+EvaluateHardwareRequirement = EmptyFunction
+EvaluateHardwareRequirementV2 = EmptyFunction
+GetHardwareRequirementSystemInfo = EmptyFunction
+GetHardwareRequirementSystemInfoV3 = EmptyFunction
+GetHardwareRequirements = EmptyFunction
+GetLatestHardwareRequirement = EmptyFunction
